@@ -32,6 +32,7 @@
 		"express-http-proxy": "^1.6.3"
 	},
 	"devDependencies": {
+		"@architect/sandbox": "^5.3.3",
 		"@ianvs/prettier-plugin-sort-imports": "^3.4.2",
 		"eslint": "^8.17.0",
 		"husky": "^8.0.1",
